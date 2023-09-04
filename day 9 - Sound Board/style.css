@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to bottom right, rgb(182, 167, 252), rgba(161, 100, 223));
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+#buttons {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.btn {
+    border: none;
+    border-radius: 5px;
+    padding: 1.5rem 3rem;
+    background-color: rebeccapurple;
+    color: #fff;
+    font-size: 1.2rem;
+    font-family: inherit;
+    text-transform: capitalize;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
