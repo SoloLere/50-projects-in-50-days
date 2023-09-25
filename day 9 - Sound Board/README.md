@@ -1,10 +1,10 @@
-# 50 Projects in 50 days - Expanding Cards solution
+# 50 Projects in 50 days - Sound Board solution
 
-This is a solution to the [Expanding Cards project of the course](https://www.udemy.com/course/50-projects-50-days/). 50 projects in 50 days helps to Sharpen your skills by building 50 quick, unique & fun mini projects.
+This is a solution to the [Sound Board project of the course](https://www.udemy.com/course/50-projects-50-days/). 50 projects in 50 days helps to Sharpen your skills by building 50 quick, unique & fun mini projects.
 
 ## Table of contents
 
-- [50 Projects in 50 days - Expanding Cards solution](#50-projects-in-50-days---expanding-cards-solution)
+- [50 Projects in 50 days - Sound Board solution](#50-projects-in-50-days---sound-board-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
